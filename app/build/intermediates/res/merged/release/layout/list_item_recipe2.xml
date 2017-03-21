@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="300dp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/recipe_list_thumbnail"
+        android:src="@drawable/mamaliga"
+
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/recipe_list_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mămăligă cu brînză" />
+    <TextView
+        android:id="@+id/recipe_list_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mamaliga cu branza ca la mama acasă" />
+
+
+
+    <LinearLayout
+        android:id="@+id/recipe_list_text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/recipe_list_detail"
+            android:layout_height="50dp" />
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_shop.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_history.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shaorma.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\shaorma.png"
+    },
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\mamaliga.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\mamaliga.png"
+    },
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Radu\\Desktop\\CookIT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\341c49d8e67e8810a67aba95f6d3d001ba4fe860\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_2896e7bed0b8fc44f75aabf5ae956fadb4a429ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\63069468a772acc407b0a2390d52030e7bbd4fde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc1e78afe5a376d79092f6bb9cec172b4c98ae0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-polly\2.3.4\fa97ab80f3c65d1b2e6b5115bbf5761cba5fc011\aws-android-sdk-polly-2.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa97ab80f3c65d1b2e6b5115bbf5761cba5fc011">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-polly-2.3.4_d1d7a195dae907c9843a87d7caa9604ae7a26a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\341c49d8e67e8810a67aba95f6d3d001ba4fe860\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2896e7bed0b8fc44f75aabf5ae956fadb4a429ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\34498a1f4abf9af42746d8b8a8e0dd3b47325501\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00f4a720ee03cb971645eada7bd9a4dacfa6a108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\7adedfc45aed0588751c2dade67e3bf3723bff22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_614f93d355ae8a2a3619cf459f6d78193a03f872\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\34498a1f4abf9af42746d8b8a8e0dd3b47325501\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_00f4a720ee03cb971645eada7bd9a4dacfa6a108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\7adedfc45aed0588751c2dade67e3bf3723bff22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_614f93d355ae8a2a3619cf459f6d78193a03f872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-polly\2.3.4\fa97ab80f3c65d1b2e6b5115bbf5761cba5fc011\aws-android-sdk-polly-2.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa97ab80f3c65d1b2e6b5115bbf5761cba5fc011">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\aws-android-sdk-polly-2.3.4_d1d7a195dae907c9843a87d7caa9604ae7a26a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.22\a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549\aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.2.22_7f0482b82bfdcb3f8d7a79cbaf5ec0d95bf0cd31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\63069468a772acc407b0a2390d52030e7bbd4fde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_cc1e78afe5a376d79092f6bb9cec172b4c98ae0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.4\f232f7a45ef2104d765ca0f9544e177f56f58394\aws-android-sdk-core-2.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f232f7a45ef2104d765ca0f9544e177f56f58394">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.4_99c036c42b120a9392033613d0e81db947e6b5cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="391dbeeebfa6a658698e204e306a48b0183672f4">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60fcd29dbeba47d7e97be4d4ada4efab0032a922\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.4\f232f7a45ef2104d765ca0f9544e177f56f58394\aws-android-sdk-core-2.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f232f7a45ef2104d765ca0f9544e177f56f58394">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.3.4_99c036c42b120a9392033613d0e81db947e6b5cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\bde1072358d3df8972cd1b99869e4bcf8276643e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee3bec6ec306b352e2c16c685d38819bdb4a2df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\2166e9d38e6bad5155a7ffa3032285193e5159cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75dd7943c05d66b63049f0c8d3d4a55e54c6c2e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\749e464aa7ea27709fff201fd7c851a908333725\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2a4c39574d2acc3eefe1dc54c4959c094e440fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\2166e9d38e6bad5155a7ffa3032285193e5159cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_75dd7943c05d66b63049f0c8d3d4a55e54c6c2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\749e464aa7ea27709fff201fd7c851a908333725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_e2a4c39574d2acc3eefe1dc54c4959c094e440fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\bde1072358d3df8972cd1b99869e4bcf8276643e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_ee3bec6ec306b352e2c16c685d38819bdb4a2df0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\860797c650c78d2b30006226932aef4d38c609fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a9797b01e10f3676d1b3ccbc042a48c47ffeb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\fa8366451020373cff5fd2135aa6b08296ae3701\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71353b1ab36a4fc6255ac2d08a5756529bc8a77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0ab321264b7ac33e7df9119abb13f4cda82ffebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\d4a0cd4ec7964c408743d56cb2f4720bf68556fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_96c99d57dbd22bf4fa5324ad68281114ca4cf814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_f871ef5316a2f123a2db17db54bcc4e218081f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\fa8366451020373cff5fd2135aa6b08296ae3701\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_71353b1ab36a4fc6255ac2d08a5756529bc8a77c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\d4a0cd4ec7964c408743d56cb2f4720bf68556fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96c99d57dbd22bf4fa5324ad68281114ca4cf814\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\860797c650c78d2b30006226932aef4d38c609fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_8a9797b01e10f3676d1b3ccbc042a48c47ffeb44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0ab321264b7ac33e7df9119abb13f4cda82ffebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.22\40fe82092e0ae3ca549b132a1e7e876807525176\aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.22_df0cfb983c0c166d077ed29d53921bdb34883289.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.22\40fe82092e0ae3ca549b132a1e7e876807525176\aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.2.22_df0cfb983c0c166d077ed29d53921bdb34883289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\a80d4b8d67183c557caf8b71e4287d2a95136ad1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_573d98f258ba30aa8803c2af62ec9198ce584631\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\b4e9c00a94501b3512cf389c35867ccb70368ffb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_800d5b51a04c8e20f2218e57ea1674fe66aac22c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\b4e9c00a94501b3512cf389c35867ccb70368ffb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_800d5b51a04c8e20f2218e57ea1674fe66aac22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1d7c50fd7549d9f273c0650c09ad0d7e82eb371d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\a80d4b8d67183c557caf8b71e4287d2a95136ad1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_573d98f258ba30aa8803c2af62ec9198ce584631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Radu\.android\build-cache\6044b70dbb6465f68302f776e69a00d35e70cdc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\classes_a0dfbf54d4087fe9a13037ceba55c342caae2b20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.22\a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549\aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.2.22_7f0482b82bfdcb3f8d7a79cbaf5ec0d95bf0cd31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\.android\build-cache\6044b70dbb6465f68302f776e69a00d35e70cdc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0dfbf54d4087fe9a13037ceba55c342caae2b20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Radu\Desktop\CookIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_f871ef5316a2f123a2db17db54bcc4e218081f59\classes.dex" />
+    </item>
+
+</items>

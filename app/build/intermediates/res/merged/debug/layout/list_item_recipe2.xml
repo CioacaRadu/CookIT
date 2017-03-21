@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:divider="@drawable/border"
+    android:dividerHeight="1px"
+    android:background="#b7cff7">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/recipe_list_thumbnail"
+            android:layout_width="98dp"
+            android:layout_height="100dp"
+            android:background="@drawable/border"
+
+            android:src="@drawable/mamaliga" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/recipe_list_title"
+                android:layout_width="match_parent"
+                android:layout_height="87dp"
+                android:layout_weight="1"
+                android:text="Mămăligă cu brînză"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:typeface="serif" />
+
+            <TextView
+                android:id="@+id/recipe_list_detail"
+                android:layout_width="match_parent"
+                android:layout_height="89dp"
+                tools:text="dsadsa" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/recipe_list_text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="36dp">
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
